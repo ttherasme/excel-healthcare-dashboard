@@ -149,7 +149,6 @@ README.md
 
 Potential future enhancements include:
 - SQL-based healthcare analysis
-- Power BI dashboard version
 - Predictive analytics integration
 - Automated refresh workflows
 - Advanced healthcare KPI tracking

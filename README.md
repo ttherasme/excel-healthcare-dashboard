@@ -134,31 +134,3 @@ dashboard_screenshot.png
 README.md
 ```
 
----
-
-## How to Use
-
-1. Download the Excel workbook
-2. Open `Hospital_ER_Data.xlsx`
-3. Navigate to the `Healthcare ER Dashboard` sheet
-4. Use slicers to interact with the dashboard
-
----
-
-## Future Improvements
-
-Potential future enhancements include:
-- SQL-based healthcare analysis
-- Predictive analytics integration
-- Automated refresh workflows
-- Advanced healthcare KPI tracking
-
----
-
-## Author
-
-Therdemis Therasme  
-Data Analyst
-
-GitHub: https://github.com/ttherasme
-LinkedIn: https://linkedin.com/in/ttherasme
